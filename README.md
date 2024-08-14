@@ -2,9 +2,6 @@
 
 Este projeto é uma aplicação completa de CRUD para gerenciar pessoas, com backend em .NET Core e frontend em React utilizando Material-UI para estilização. O sistema permite criar, ler, atualizar e deletar registros de pessoas, incluindo informações como nome, CPF, data de nascimento e números de telefone. A aplicação também inclui funcionalidades adicionais como pesquisa, filtros, paginação e confirmação de ações críticas.
 
-![Uploading image.png…]()
-
-
 ## Índice
 
 - [Funcionalidades](#funcionalidades)
