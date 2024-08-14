@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\controllers\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\migrations\\20240813212136_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\migrations\\20240813212136_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\migrations\\20240814011515_updatetelefonewithoutpessoareference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\migrations\\20240814011515_updatetelefonewithoutpessoareference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\migrations\\20240814011107_updatetelefonerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\migrations\\20240814011107_updatetelefonerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|c:\\users\\kauan\\onedrive\\\u00E1rea de trabalho\\teste\\crud\\crud\\migrations\\20240814005834_initialcreatev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77C00C-D4BE-44BD-821E-F4FCDD4C5D21}|CRUD\\CRUD.csproj|solutionrelative:crud\\migrations\\20240814005834_initialcreatev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240814011515_UpdateTelefoneWithoutPessoaReference.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011515_UpdateTelefoneWithoutPessoaReference.cs",
+              "RelativeDocumentMoniker": "CRUD\\Migrations\\20240814011515_UpdateTelefoneWithoutPessoaReference.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011515_UpdateTelefoneWithoutPessoaReference.cs",
+              "RelativeToolTip": "CRUD\\Migrations\\20240814011515_UpdateTelefoneWithoutPessoaReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:15:15.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240814011107_UpdateTelefoneRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011107_UpdateTelefoneRelationship.cs",
+              "RelativeDocumentMoniker": "CRUD\\Migrations\\20240814011107_UpdateTelefoneRelationship.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011107_UpdateTelefoneRelationship.cs",
+              "RelativeToolTip": "CRUD\\Migrations\\20240814011107_UpdateTelefoneRelationship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:11:07.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240814005834_InitialCreateV2.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814005834_InitialCreateV2.cs",
+              "RelativeDocumentMoniker": "CRUD\\Migrations\\20240814005834_InitialCreateV2.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814005834_InitialCreateV2.cs",
+              "RelativeToolTip": "CRUD\\Migrations\\20240814005834_InitialCreateV2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:58:34.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoasController.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\PessoasController.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\PessoasController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwv2QAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:55:54.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240813212136_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240813212136_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CRUD\\Migrations\\20240813212136_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240813212136_InitialCreate.cs",
+              "RelativeToolTip": "CRUD\\Migrations\\20240813212136_InitialCreate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:21:36.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Program.cs",
+              "RelativeToolTip": "CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:19:43.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\appsettings.json",
+              "RelativeToolTip": "CRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T21:19:17.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CRUD\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:19:05.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Telefone.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Models\\Telefone.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\Telefone.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Models\\Telefone.cs",
+              "RelativeToolTip": "CRUD\\Models\\Telefone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:18:37.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Models\\Pessoa.cs",
+              "RelativeToolTip": "CRUD\\Models\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:18:21.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

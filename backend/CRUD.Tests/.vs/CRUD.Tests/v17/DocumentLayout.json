@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EB421-B489-4CFF-B7E8-125F4FD9B758}|CRUD.Tests\\CRUD.Tests.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud.tests\\crud.tests\\validators\\telefonevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EB421-B489-4CFF-B7E8-125F4FD9B758}|CRUD.Tests\\CRUD.Tests.csproj|solutionrelative:crud.tests\\validators\\telefonevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EB421-B489-4CFF-B7E8-125F4FD9B758}|CRUD.Tests\\CRUD.Tests.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud.tests\\crud.tests\\validators\\pessoavalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83EB421-B489-4CFF-B7E8-125F4FD9B758}|CRUD.Tests\\CRUD.Tests.csproj|solutionrelative:crud.tests\\validators\\pessoavalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF99AD-BB76-4722-A26A-933ED0EC279A}|..\\CRUD\\CRUD\\CRUD.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF99AD-BB76-4722-A26A-933ED0EC279A}|..\\CRUD\\CRUD\\CRUD.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud\\crud\\validators\\telefonevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF99AD-BB76-4722-A26A-933ED0EC279A}|..\\CRUD\\CRUD\\CRUD.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud\\crud\\validators\\pessoavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF99AD-BB76-4722-A26A-933ED0EC279A}|..\\CRUD\\CRUD\\CRUD.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud\\crud\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF99AD-BB76-4722-A26A-933ED0EC279A}|..\\CRUD\\CRUD\\CRUD.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud\\crud\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF99AD-BB76-4722-A26A-933ED0EC279A}|..\\CRUD\\CRUD\\CRUD.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud\\crud\\data\\telefoneconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF99AD-BB76-4722-A26A-933ED0EC279A}|..\\CRUD\\CRUD\\CRUD.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud\\crud\\data\\pessoaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF99AD-BB76-4722-A26A-933ED0EC279A}|..\\CRUD\\CRUD\\CRUD.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud\\crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF99AD-BB76-4722-A26A-933ED0EC279A}|..\\CRUD\\CRUD\\CRUD.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud\\crud\\controllers\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83EB421-B489-4CFF-B7E8-125F4FD9B758}|CRUD.Tests\\CRUD.Tests.csproj|c:\\users\\kauan\\desktop\\crudlar\\backend\\crud.tests\\crud.tests\\crud.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F83EB421-B489-4CFF-B7E8-125F4FD9B758}|CRUD.Tests\\CRUD.Tests.csproj|solutionrelative:crud.tests\\crud.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011515_UpdateTelefoneWithoutPessoaReference.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011107_UpdateTelefoneRelationship.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814005834_InitialCreateV2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240813212136_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\TelefoneConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\PessoaConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\TelefoneValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Controllers\\PessoasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\PessoaValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CRUD\\CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Program.cs",
+              "RelativeToolTip": "..\\CRUD\\CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:13:47.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TelefoneValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Validators\\TelefoneValidator.cs",
+              "RelativeDocumentMoniker": "..\\CRUD\\CRUD\\Validators\\TelefoneValidator.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Validators\\TelefoneValidator.cs",
+              "RelativeToolTip": "..\\CRUD\\CRUD\\Validators\\TelefoneValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:13:45.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PessoaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Validators\\PessoaValidator.cs",
+              "RelativeDocumentMoniker": "..\\CRUD\\CRUD\\Validators\\PessoaValidator.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Validators\\PessoaValidator.cs",
+              "RelativeToolTip": "..\\CRUD\\CRUD\\Validators\\PessoaValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:13:44.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Telefone.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Models\\Telefone.cs",
+              "RelativeDocumentMoniker": "..\\CRUD\\CRUD\\Models\\Telefone.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Models\\Telefone.cs",
+              "RelativeToolTip": "..\\CRUD\\CRUD\\Models\\Telefone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:13:42.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "..\\CRUD\\CRUD\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Models\\Pessoa.cs",
+              "RelativeToolTip": "..\\CRUD\\CRUD\\Models\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:13:41.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TelefoneConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Data\\TelefoneConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\CRUD\\CRUD\\Data\\TelefoneConfiguration.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Data\\TelefoneConfiguration.cs",
+              "RelativeToolTip": "..\\CRUD\\CRUD\\Data\\TelefoneConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:13:36.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PessoaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Data\\PessoaConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\CRUD\\CRUD\\Data\\PessoaConfiguration.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Data\\PessoaConfiguration.cs",
+              "RelativeToolTip": "..\\CRUD\\CRUD\\Data\\PessoaConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:13:35.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:13:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PessoasController.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "RelativeDocumentMoniker": "..\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "RelativeToolTip": "..\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:13:25.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240814011107_UpdateTelefoneRelationship.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011107_UpdateTelefoneRelationship.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011107_UpdateTelefoneRelationship.Designer.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011107_UpdateTelefoneRelationship.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011107_UpdateTelefoneRelationship.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:31:13.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240814005834_InitialCreateV2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814005834_InitialCreateV2.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814005834_InitialCreateV2.Designer.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814005834_InitialCreateV2.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814005834_InitialCreateV2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:31:04.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD.Tests\\CRUD.Tests\\Validators\\PessoaValidatorTests.cs",
+              "RelativeDocumentMoniker": "CRUD.Tests\\Validators\\PessoaValidatorTests.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD.Tests\\CRUD.Tests\\Validators\\PessoaValidatorTests.cs",
+              "RelativeToolTip": "CRUD.Tests\\Validators\\PessoaValidatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:14:36.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelefoneValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD.Tests\\CRUD.Tests\\Validators\\TelefoneValidatorTests.cs",
+              "RelativeDocumentMoniker": "CRUD.Tests\\Validators\\TelefoneValidatorTests.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD.Tests\\CRUD.Tests\\Validators\\TelefoneValidatorTests.cs",
+              "RelativeToolTip": "CRUD.Tests\\Validators\\TelefoneValidatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:24:09.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240814011515_UpdateTelefoneWithoutPessoaReference.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011515_UpdateTelefoneWithoutPessoaReference.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011515_UpdateTelefoneWithoutPessoaReference.Designer.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011515_UpdateTelefoneWithoutPessoaReference.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240814011515_UpdateTelefoneWithoutPessoaReference.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:31:24.302Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:30:36.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240813212136_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240813212136_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240813212136_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240813212136_InitialCreate.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Migrations\\20240813212136_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:29:48.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TelefoneConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\TelefoneConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\TelefoneConfiguration.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\TelefoneConfiguration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\TelefoneConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:27:41.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PessoaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\PessoaConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\PessoaConfiguration.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\PessoaConfiguration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\PessoaConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:27:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:24:38.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TelefoneValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\TelefoneValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\TelefoneValidator.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\TelefoneValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\TelefoneValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:23:04.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:18:19.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PessoasController.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Controllers\\PessoasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:16:10.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PessoaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\PessoaValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\PessoaValidator.cs",
+              "ToolTip": "C:\\Users\\kauan\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\PessoaValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\teste\\CRUD\\CRUD\\Validators\\PessoaValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:22:25.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRUD.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD.Tests\\CRUD.Tests\\CRUD.Tests.csproj",
+              "RelativeDocumentMoniker": "CRUD.Tests\\CRUD.Tests.csproj",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\CrudLar\\backend\\CRUD.Tests\\CRUD.Tests\\CRUD.Tests.csproj",
+              "RelativeToolTip": "CRUD.Tests\\CRUD.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T06:15:08.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
