@@ -77,3 +77,9 @@ cd CrudLar
 ``
 3. **Configurar API**:
   - Navegue até a pasta `services` e altere a baseURL para a da sua API.
+
+4. **Rodar**:
+  - Para rodar será necessário executar o comando:
+    ``
+   npm start
+``
