@@ -50,7 +50,7 @@ Este projeto é uma aplicação completa de CRUD para gerenciar pessoas, com bac
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/CrudLar.git
+git clone https://github.com/kndofc/CrudLar.git
 cd CrudLar
 ```
 ## Configuração
