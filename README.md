@@ -8,10 +8,7 @@ Este projeto é uma aplicação completa de CRUD para gerenciar pessoas, com bac
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Configuração](#configuração)
-- [Execução](#execução)
-- [Testes](#testes)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ## Funcionalidades
 
